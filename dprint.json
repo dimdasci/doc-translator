@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "https://plugins.dprint.dev/typescript-0.91.5.wasm",
+    "https://plugins.dprint.dev/json-0.19.3.wasm"
+  ],
+  "indentWidth": 2,
+  "lineWidth": 100
+}
